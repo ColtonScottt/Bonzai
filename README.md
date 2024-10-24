@@ -5,7 +5,7 @@ Bonzai is a program for the VR Game, Echo Arena, that reads the API data and pro
 
 # Utilties / Goals
 
-| Use | Status |
+| Feature | Status |
 |---|---|
 | Text-To-Speech | Complete |
 | Team Player List | Complete |
