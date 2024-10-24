@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/99db7dd6-56a3-48b3-9883-7d2c5d3313d3)
+# Bonzai
+![image](https://github.com/user-attachments/assets/db261905-06e7-4d2d-9386-05e8df287bdf)
 
 
 # About:
